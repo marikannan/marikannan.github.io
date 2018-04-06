@@ -4,7 +4,7 @@ title: "Source Code Management Tool - Git"
 date:   2018-04-01 21:51:30 +0530
 categories: 
 ---
-Quick Notes of using git and github.
+This is post will give quick tips for working with github.
 
 ## List Config
 To list configuration details,
