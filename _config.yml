@@ -26,6 +26,8 @@ github_username: marikannan
 # Build settings
 markdown: kramdown
 theme: minima
+minima:
+  skin: dark
 plugins:
   - jekyll-feed
 
