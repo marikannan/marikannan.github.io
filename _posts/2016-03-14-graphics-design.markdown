@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Graphics Design - Workshop"
-date: 2016-03-14 23:16:21
+date: 2016-03-14 23:16:21 +0530
 categories: [ Graphics Design ]
 ---
 In the last weekend, I attended the IEEE madras section workshop on "Graphics Design". Though I am core software programmer, always I have the interest in design aspects atleast to the extent I can design simple poster or e-flyer for some of the outreach programs. Most of the time, I used GIMP and Inkscape for this purpose.
