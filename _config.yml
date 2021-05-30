@@ -27,7 +27,7 @@ github_username: marikannan
 markdown: kramdown
 theme: minima
 minima:
-  skin: solarized
+  skin: solarized-dark
 plugins:
   - jekyll-feed
 
