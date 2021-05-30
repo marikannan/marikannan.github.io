@@ -26,13 +26,8 @@ github_username: marikannan
 # Build settings
 markdown: kramdown
 theme: minima
-minima:
-# minima - skin feature is supported only in minima v3.x.x
-#  skin: solarized-dark
 plugins:
   - jekyll-feed
-
-show_excerpts: false
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
